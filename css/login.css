@@ -1,0 +1,75 @@
+
+.col-lg-6.text-center {
+	margin: 0 auto;
+	float: none;
+	background-color: #32162c;
+	width: 400px;
+	padding: 10px 80px 25px;
+	color: #e79f9f;
+	font-weight: bold;
+	border-radius: 6px;
+	border: 1px solid #3f3232;
+	min-height: 380px;
+	box-shadow: 2px 1px #833e3e;
+}
+.signinf .fa.fa-remove {
+	text-align: ;
+	border: 1px solid;
+	padding: 3px 5px;
+	border-radius: 50%;
+	cursor: pointer;
+}
+.signinf h1 {
+	color: #ccc;
+	font-weight: bold;
+	font-family: ubuntu;
+}
+#login .fa.fa-envelope, .fa.fa-lock {
+	position: absolute;
+	font-size: 34px;
+	text-align: ;
+	float: ;
+	left: 20px;
+	top: 1px;
+	color: #b67777;
+}
+#login .fa.fa-envelope {
+	font-size: 25px;
+	top: 4px;
+}
+.col-lg-6.submit {
+	text-align: right;
+}
+#login .form-control {
+	padding-left: 40px;
+	background-color: #594242;
+	border: none;
+	color: #9acb65;
+}
+.login-form .fa.fa-user {
+	font-size: 45px;
+	border: 2px solid;
+	padding: 10px 17px;
+	bottom: ;
+	margin-bottom: 10px;
+	border-radius: 50%;
+	background-color: #494368;
+}
+.submit .btn {
+	background-color: #997575;
+	font-family: ubuntu;
+	font-weight: bold;
+	transition: .5s;
+	padding: 4px 20px;
+	left: ;
+	right: ;
+	margin-right: 2px;
+}
+.col-lg-6.col-md-6.col-sm-6.col-xs-6.creat {
+	margin: 0 auto;
+	float: none;
+}
+#login a {
+	color: #ccc;
+	font-size: 12px;
+}
