@@ -232,7 +232,7 @@ a{
 
 /*Our tuorial AREA*/
 .tutorial-area {
-	background-color: #272933;;
+	background-color: #4479c9;
 	margin-top: -10px;
 	padding: 35px 0px;
 	color: #ccc;
@@ -250,9 +250,11 @@ a{
 	text-align: center;
 	font-weight: bold;
 	font-size: 30px;
+	color: #2e3e4a;
 }
 .learn-program p {
-	color: #94b0af;
+	color: #000;
+	font-family: ubuntu;
 }
 .center {
 	width: 24%;
